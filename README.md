@@ -2,16 +2,15 @@ HuoherBooks
 
 一个在线书城系统
 
--  IntelliJ IDEA Ultimate
-- Maven3
-- Git
-- Java10
-- spring boot 2.0
-
+- [x]  IntelliJ IDEA Ultimate
+- [x] Maven3
+- [x] Git
+- [x] Java10
+- [x] spring boot 2.0
  
 
-作者 张秋池
+作者  [张秋池](https://weibo.com/zhangqiuchi)
 
-个人博客地址 qiuchi.top
+个人博客地址  [qiuchi.top](http://qiuchi.top/)
 
 
