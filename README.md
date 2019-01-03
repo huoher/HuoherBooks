@@ -11,6 +11,6 @@ HuoherBooks
 
 作者  [张秋池](https://weibo.com/zhangqiuchi)
 
-个人博客地址  [qiuchi.top](http://qiuchi.top/)
+个人博客地址  [qiuchi.top](http://qiuchi.me/)
 
 
